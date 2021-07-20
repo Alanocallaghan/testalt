@@ -1,0 +1,19 @@
+---
+title: Testing alt-text
+---
+
+```{r nothing}
+knitr::include_graphics("mcgriff.png")
+```
+
+```{r cap, fig.cap="Caption only."}
+knitr::include_graphics("mcgriff.png")
+```
+
+```{r altcap, fig.cap="Caption and alt text.", fig.alt="This has alt text too."}
+knitr::include_graphics("mcgriff.png")
+```
+
+```{r alt, fig.alt="This only has alt text too."}
+knitr::include_graphics("mcgriff.png")
+```
