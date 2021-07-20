@@ -14,6 +14,6 @@ knitr::include_graphics("mcgriff.png")
 knitr::include_graphics("mcgriff.png")
 ```
 
-```{r alt, fig.alt="This only has alt text too."}
+```{r alt, fig.alt="This only has alt text."}
 knitr::include_graphics("mcgriff.png")
 ```

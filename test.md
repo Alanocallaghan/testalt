@@ -28,4 +28,4 @@ knitr::include_graphics("mcgriff.png")
 knitr::include_graphics("mcgriff.png")
 ```
 
-<img src="mcgriff.png" title="This only has alt text too." alt="This only has alt text too."  />
+<img src="mcgriff.png" title="This only has alt text." alt="This only has alt text."  />
